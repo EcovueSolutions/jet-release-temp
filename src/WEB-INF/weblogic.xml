@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<weblogic-web-app xmlns="http://www.bea.com/ns/weblogic/weblogic-web-app" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                  xsi:schemaLocation="http://www.bea.com/ns/weblogic/weblogic-web-app/1.0/weblogic-web-app.xsd">
+<context-root>dashboard2.0</context-root>
+        <context-root>EcovuesDashboard2.0-EcovuesDashboard2.0-context-root</context-root>
+        <security-role-assignment>
+        <role-name>webuser</role-name>
+        <principal-name>ECO.ADMIN</principal-name>
+        <principal-name>WCI Test EMEA HR Executive Files</principal-name>
+        <principal-name>WCI Test EMEA HR Human Resources Files</principal-name>
+        <principal-name>WCI Test EMEA HR Employee Files</principal-name>
+        <principal-name>WCI Test EMEA HR Occupational Health Files</principal-name>
+        <principal-name>WCI_Test_EMEA_HR_Employee_Files</principal-name>
+        <principal-name>WCI_Test_EMEA_HR_Executive_Files</principal-name>
+        <principal-name>WCI_Test_EMEA_HR_Human_Resources_Files</principal-name>
+        <principal-name>WCI_Test_EMEA_HR_Occupational_Health_Files</principal-name>
+        <principal-name>WCI_EMEA_HR_Employee_Files</principal-name>
+        <principal-name>WCI_EMEA_HR_Executive_Files</principal-name>
+        <principal-name>WCI_EMEA_HR_Human_Resources_Files</principal-name>
+        <principal-name>WCI_EMEA_HR_Occupational_Health_Files</principal-name>
+        <principal-name>WebCenter_Users</principal-name>
+     </security-role-assignment> 
+</weblogic-web-app>	
